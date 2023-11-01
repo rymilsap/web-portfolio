@@ -11,7 +11,7 @@ const About = () => {
         </div>
 
         <p className='text-xl mt-20'>
-        My name is Ryan Milsap, originally from Overland Park, Kansas. I'm currently a Sophomore at the University of Alabama, majoring in Computer Science. During my time at UA, I've been exposed to various programming languages, including C, C++, Java, and HTML. Presently, I'm part of a team of six, where we're simulating the agile software development process. This hands-on experience is teaching me real-world skills, complemented by tools like Bitbucket.
+        My name is Ryan Milsap, originally from Overland Park, Kansas. I'm currently a Sophomore at the University of Alabama, majoring in Computer Science. During my time at UA, I've been exposed to various programming languages, including C/C++, Java, and HTML. Presently, I'm part of a team of six, where we're simulating the agile software development process. This hands-on experience is teaching me real-world skills, complemented by tools like Git.
         </p>
 
         <br />
